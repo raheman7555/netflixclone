@@ -1,0 +1,117 @@
+.logo{
+    width: 160px;
+    padding-left: 30px;
+    
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgba(0,0,0, 0.6) url("https://assets.nflxext.com/ffe/siteui/vlv3/6c884f48-f7d8-4a59-9d25-b7c138813aee/ed2b002b-c6c5-459c-9c97-753f50e8286b/IN-en-20230807-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-blend-mode: darken;
+    color: #fff;
+    
+
+}
+.btn{
+    padding: 10px 15px;
+    color:#fff;
+    background-color: red;
+    display: inline-block;
+    cursor: pointer;
+    align-items: center;
+    font-family: Arial,  sans-serif;
+    border-radius: 4px;
+}
+.btn:hover{
+    background-color: rgb(207, 39, 39);
+}
+.nav{
+    padding-top: 5px;
+    padding-left: 8vw;
+    padding-right: 7vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+}
+select{
+    margin-left: 60%;
+    padding: 8px;
+    background: none;
+    color: #fff;
+    
+}
+
+
+.content{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 15%;
+
+}
+.content h1{
+    font-size: 55px;
+
+}
+.content p{
+    font-size: 20px;
+    padding-left:16% ;
+
+}
+.content p1{
+    font-size: 25px;
+    padding-left: 30%;
+
+}
+.content br{
+    
+    padding-left: 22%;
+
+}
+.Email{
+    width: 57%;
+    height: fit-content;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding-left: 21%;
+    background: transparent;
+    border-color:white;
+
+}
+.Email input{
+    border-color:black;
+    padding: 15px 100px;
+    size: 2em;
+    background-color: transparent;
+    color:white;
+
+}
+.Email a{
+    height: fit-content;
+    background-color: red;
+    color: #fff;
+    padding: 14px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.Email a:hover{
+    background-color: rgb(207, 39, 39);
+
+}
+
+.a Email a{
+    height: fit-content;
+    background-color: transparent;
+    color: #fff;
+    padding: 16px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.inp{
+    background-color: transparent;
+    border-color: #fff;
+    
+}
